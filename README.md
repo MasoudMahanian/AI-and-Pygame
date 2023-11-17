@@ -6,6 +6,7 @@ In this repository, I plan to make a game and play with artificial intelligence.
 
 Includes two parts:
 > tutorial Pygame
+
 > Implementation of the algorithm
 
 # Tutorial File
@@ -17,8 +18,11 @@ Follow the tutorial file in order. It is written in a notebook and you can learn
 ## multiplayer
 
 >The game is made in this mod.
+
 >Making game graphics.
+
 >How to move with the keyboard.
+
 >Game requirements (collision check, etc.).
 
 ## AI implementations
@@ -32,11 +36,14 @@ We have several AI implementations for a game:
 ### Algorithm and Training
 
 >Algorithm: Q_Learning
+
 >in the game: agent also learns in the game
+
 >Before the game:
 >- We can only train the mouse (computer).
 >- In addition to the mouse, we can also train the cat (the player).
 > 
+
 > The second mode is to train the mouse more efficiently The second mode is to train the mouse more efficiently
 The cat is not training in the during game.
 The advantage of the second case is observed in the game.
